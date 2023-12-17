@@ -1,0 +1,7 @@
+two lines to add in cmd
+
+npm init ( to get package json file)
+
+npm install express --save (to get all node modules)
+
+then include index.html , css and index.js file
